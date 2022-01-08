@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @firyalhuwaida
-- 🌱 I’m currently learning Javascript Web Development
+- 🌱 I’m currently learning HTML, CSS, Javascript
 - 📫 How to reach me : fifihuwaida@gmail.com
 
 
