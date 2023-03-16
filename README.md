@@ -1,6 +1,6 @@
 
 ## Hi I'm Firyal👋
-👨🏼‍💻 &nbsp; Frontend team developer intern at @Kodingworks.\
+👨🏼‍💻 &nbsp; Software Engineer (Front-end) at @Kodingworks.\
 🌱 &nbsp; I'm on track for learning more about html, css, javascript and react.\
 📫 &nbsp; How to reach me : fifihuwaida@gmail.com
 
